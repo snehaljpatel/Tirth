@@ -1,0 +1,23 @@
+.circle:hover {
+    stroke: black;
+    stroke-width: 4px;
+}
+
+#dropdown_container {
+    width: 30%;
+}
+
+#main {
+    margin: 20px;
+    margin-left: 2px;
+}
+
+.selection {
+    width: 30%;
+}
+
+text {
+    font-family: "Arial";
+    margin-bottom: 5px;
+    margin-top: 0px;
+}

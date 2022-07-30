@@ -1,0 +1,1031 @@
+{
+  "name": "India",
+  "children": [
+    {
+      "name": "West Bengal",
+      "children": [
+        {
+          "name": "Darjiling ",
+          "children": [
+            {
+              "name": "Darjeeling Pulbazar",
+              "value": 7
+            },
+            {
+              "name": "Darjiling ",
+              "value": 1
+            },
+            {
+              "name": "Darjiling (M)",
+              "value": 2
+            },
+            {
+              "name": "Kalimpong (M)",
+              "value": 3
+            },
+            {
+              "name": "Kalimpong -I",
+              "value": 9
+            },
+            {
+              "name": "Kurseong (M)",
+              "value": 5
+            },
+            {
+              "name": "Mirik (NA)",
+              "value": 4
+            },
+            {
+              "name": "Rangli Rangliot",
+              "value": 8
+            },
+            {
+              "name": "Siliguri (M Corp.) (Part)",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Barddhaman ",
+          "children": [
+            {
+              "name": "Asansol (M Corp.)",
+              "value": 3
+            },
+            {
+              "name": "Barddhaman ",
+              "value": 1
+            },
+            {
+              "name": "Dainhat (M)",
+              "value": 9
+            },
+            {
+              "name": "Durgapur (M Corp.)",
+              "value": 7
+            },
+            {
+              "name": "Jamuria (M + OG)",
+              "value": 4
+            },
+            {
+              "name": "Jamuria (M)",
+              "value": 5
+            },
+            {
+              "name": "Katwa (M)",
+              "value": 8
+            },
+            {
+              "name": "Kulti (M)",
+              "value": 2
+            },
+            {
+              "name": "Raniganj (M)",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Nadia ",
+          "children": [
+            {
+              "name": "Area not under any Sub-district",
+              "value": 1
+            },
+            {
+              "name": "Birnagar (M)",
+              "value": 8
+            },
+            {
+              "name": "Krishnanagar (M)",
+              "value": 4
+            },
+            {
+              "name": "Nabadwip (M)",
+              "value": 3
+            },
+            {
+              "name": "Nadia ",
+              "value": 2
+            },
+            {
+              "name": "Ranaghat (M)",
+              "value": 9
+            },
+            {
+              "name": "Santipur (M)",
+              "value": 5
+            },
+            {
+              "name": "Taherpur (NA + OG)",
+              "value": 6
+            },
+            {
+              "name": "Taherpur (NA)",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Hugli ",
+          "children": [
+            {
+              "name": "Arambag (M)",
+              "value": 8
+            },
+            {
+              "name": "Area not under any Sub-district",
+              "value": 1
+            },
+            {
+              "name": "Bansberia (M)",
+              "value": 3
+            },
+            {
+              "name": "Bhadreswar (M)",
+              "value": 9
+            },
+            {
+              "name": "Chandannagar (M Corp)",
+              "value": 6
+            },
+            {
+              "name": "Hugli ",
+              "value": 2
+            },
+            {
+              "name": "Hugli-Chinsurah (M + OG)",
+              "value": 4
+            },
+            {
+              "name": "Hugli-Chinsurah (M)",
+              "value": 5
+            },
+            {
+              "name": "Tarakeswar (M)",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Kolkata",
+          "children": [
+            {
+              "name": "Area not under any Sub-district",
+              "value": 1
+            },
+            {
+              "name": "Kolkata",
+              "value": 2
+            },
+            {
+              "name": "Kolkata (M Corp.)",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "children": [
+        {
+          "name": "Kachchh",
+          "children": [
+            {
+              "name": "Anjar",
+              "value": 7
+            },
+            {
+              "name": "Anjar (M)",
+              "value": 8
+            },
+            {
+              "name": "Bhachau",
+              "value": 5
+            },
+            {
+              "name": "Bhachau (M)",
+              "value": 6
+            },
+            {
+              "name": "Bhuj",
+              "value": 9
+            },
+            {
+              "name": "Kachchh",
+              "value": 1
+            },
+            {
+              "name": "Lakhpat",
+              "value": 2
+            },
+            {
+              "name": "Rapar",
+              "value": 3
+            },
+            {
+              "name": "Rapar (M)",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Patan  ",
+          "children": [
+            {
+              "name": "Patan  ",
+              "value": 1
+            },
+            {
+              "name": "Patan",
+              "value": 8
+            },
+            {
+              "name": "Patan (M + OG)",
+              "value": 9
+            },
+            {
+              "name": "Radhanpur",
+              "value": 3
+            },
+            {
+              "name": "Radhanpur (M)",
+              "value": 4
+            },
+            {
+              "name": "Santalpur",
+              "value": 2
+            },
+            {
+              "name": "Sidhpur",
+              "value": 5
+            },
+            {
+              "name": "Sidhpur (M + OG)",
+              "value": 6
+            },
+            {
+              "name": "Sidhpur (M)",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Rajkot",
+          "children": [
+            {
+              "name": "Maliya",
+              "value": 2
+            },
+            {
+              "name": "Maliya (M)",
+              "value": 3
+            },
+            {
+              "name": "Morvi",
+              "value": 4
+            },
+            {
+              "name": "Morvi (M + OG)",
+              "value": 5
+            },
+            {
+              "name": "Morvi (M)",
+              "value": 6
+            },
+            {
+              "name": "Rajkot",
+              "value": 1
+            },
+            {
+              "name": "Tankara",
+              "value": 7
+            },
+            {
+              "name": "Wankaner",
+              "value": 8
+            },
+            {
+              "name": "Wankaner (M)",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "Junagadh",
+          "children": [
+            {
+              "name": "Bantwa (M)",
+              "value": 3
+            },
+            {
+              "name": "Bhesan",
+              "value": 9
+            },
+            {
+              "name": "Junagadh",
+              "value": 1
+            },
+            {
+              "name": "Junagadh",
+              "value": 7
+            },
+            {
+              "name": "Junagadh (M Corp.)",
+              "value": 8
+            },
+            {
+              "name": "Manavadar",
+              "value": 2
+            },
+            {
+              "name": "Manavadar (M)",
+              "value": 4
+            },
+            {
+              "name": "Vanthali",
+              "value": 5
+            },
+            {
+              "name": "Vanthali (M)",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Bhavnagar",
+          "children": [
+            {
+              "name": "Bhavnagar",
+              "value": 1
+            },
+            {
+              "name": "Bhavnagar",
+              "value": 9
+            },
+            {
+              "name": "Botad",
+              "value": 2
+            },
+            {
+              "name": "Botad (M)",
+              "value": 3
+            },
+            {
+              "name": "Gadhada",
+              "value": 6
+            },
+            {
+              "name": "Gadhada (M)",
+              "value": 7
+            },
+            {
+              "name": "Umrala",
+              "value": 8
+            },
+            {
+              "name": "Vallabhipur",
+              "value": 4
+            },
+            {
+              "name": "Vallabhipur (M)",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "children": [
+        {
+          "name": "Gwalior",
+          "children": [
+            {
+              "name": "Bhitarwar",
+              "value": 9
+            },
+            {
+              "name": "Bilaua (NP)",
+              "value": 6
+            },
+            {
+              "name": "Dabra (M)",
+              "value": 8
+            },
+            {
+              "name": "Dabra (Pichhore)",
+              "value": 5
+            },
+            {
+              "name": "Gwalior",
+              "value": 1
+            },
+            {
+              "name": "Gwalior (Gird)",
+              "value": 2
+            },
+            {
+              "name": "Gwalior (M Corp.)",
+              "value": 3
+            },
+            {
+              "name": "Morar Cantt (CB)",
+              "value": 4
+            },
+            {
+              "name": "Pichhore (NP)",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Datia",
+          "children": [
+            {
+              "name": "Badoni (NP)",
+              "value": 8
+            },
+            {
+              "name": "Bhander",
+              "value": 9
+            },
+            {
+              "name": "Datia",
+              "value": 1
+            },
+            {
+              "name": "Datia",
+              "value": 6
+            },
+            {
+              "name": "Datia (M)",
+              "value": 7
+            },
+            {
+              "name": "Indergarh",
+              "value": 4
+            },
+            {
+              "name": "Indergarh (NP)",
+              "value": 5
+            },
+            {
+              "name": "Seondha",
+              "value": 2
+            },
+            {
+              "name": "Seondha (NP)",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Chhatarpur",
+          "children": [
+            {
+              "name": "Barigarh (NP)",
+              "value": 3
+            },
+            {
+              "name": "Chandla",
+              "value": 6
+            },
+            {
+              "name": "Chandla (NP)",
+              "value": 7
+            },
+            {
+              "name": "Chhatarpur",
+              "value": 1
+            },
+            {
+              "name": "Gaurihar",
+              "value": 2
+            },
+            {
+              "name": "Harpalpur (NP)",
+              "value": 9
+            },
+            {
+              "name": "Laundi",
+              "value": 4
+            },
+            {
+              "name": "Laundi (NP)",
+              "value": 5
+            },
+            {
+              "name": "Nowgong",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "Rewa",
+          "children": [
+            {
+              "name": "Baikunthpur (NP)",
+              "value": 8
+            },
+            {
+              "name": "Chakghat (NP)",
+              "value": 3
+            },
+            {
+              "name": "Jawa",
+              "value": 5
+            },
+            {
+              "name": "Mangawan",
+              "value": 9
+            },
+            {
+              "name": "Rewa",
+              "value": 1
+            },
+            {
+              "name": "Sirmour",
+              "value": 6
+            },
+            {
+              "name": "Sirmour (NP)",
+              "value": 7
+            },
+            {
+              "name": "Teonthar",
+              "value": 2
+            },
+            {
+              "name": "Teonthar (NP)",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Ratlam",
+          "children": [
+            {
+              "name": "Alot",
+              "value": 8
+            },
+            {
+              "name": "Alot (NP)",
+              "value": 9
+            },
+            {
+              "name": "Badawada (NP)",
+              "value": 7
+            },
+            {
+              "name": "Jaora",
+              "value": 4
+            },
+            {
+              "name": "Jaora (M + OG)",
+              "value": 5
+            },
+            {
+              "name": "Jaora (M)",
+              "value": 6
+            },
+            {
+              "name": "Piploda",
+              "value": 2
+            },
+            {
+              "name": "Piploda (NP)",
+              "value": 3
+            },
+            {
+              "name": "Ratlam",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maharashtra",
+      "children": [
+        {
+          "name": "Akola",
+          "children": [
+            {
+              "name": "Akola",
+              "value": 1
+            },
+            {
+              "name": "Akola",
+              "value": 8
+            },
+            {
+              "name": "Akola (M Corp.)",
+              "value": 9
+            },
+            {
+              "name": "Akot",
+              "value": 4
+            },
+            {
+              "name": "Akot (M Cl)",
+              "value": 5
+            },
+            {
+              "name": "Balapur",
+              "value": 6
+            },
+            {
+              "name": "Balapur (M Cl)",
+              "value": 7
+            },
+            {
+              "name": "Telhara",
+              "value": 2
+            },
+            {
+              "name": "Telhara (M Cl)",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Wardha",
+          "children": [
+            {
+              "name": "Arvi",
+              "value": 4
+            },
+            {
+              "name": "Arvi (M Cl)",
+              "value": 5
+            },
+            {
+              "name": "Ashti",
+              "value": 2
+            },
+            {
+              "name": "Karanja",
+              "value": 3
+            },
+            {
+              "name": "Seloo",
+              "value": 6
+            },
+            {
+              "name": "Sindi (M Cl)",
+              "value": 7
+            },
+            {
+              "name": "Wardha",
+              "value": 1
+            },
+            {
+              "name": "Wardha",
+              "value": 8
+            },
+            {
+              "name": "Wardha (M Cl)",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "Nagpur",
+          "children": [
+            {
+              "name": "Kalameshwar",
+              "value": 7
+            },
+            {
+              "name": "Kalameshwar (M Cl) ",
+              "value": 8
+            },
+            {
+              "name": "Katol",
+              "value": 5
+            },
+            {
+              "name": "Katol (M Cl)",
+              "value": 6
+            },
+            {
+              "name": "Mohpa (M Cl)",
+              "value": 9
+            },
+            {
+              "name": "Mowad (M Cl)",
+              "value": 3
+            },
+            {
+              "name": "Nagpur",
+              "value": 1
+            },
+            {
+              "name": "Narkhed",
+              "value": 2
+            },
+            {
+              "name": "Narkhed (M Cl)",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Nanded",
+          "children": [
+            {
+              "name": "Ardhapur",
+              "value": 8
+            },
+            {
+              "name": "Hadgaon",
+              "value": 6
+            },
+            {
+              "name": "Hadgaon (M Cl)",
+              "value": 7
+            },
+            {
+              "name": "Himayatnagar",
+              "value": 5
+            },
+            {
+              "name": "Kinwat",
+              "value": 3
+            },
+            {
+              "name": "Kinwat (M Cl)",
+              "value": 4
+            },
+            {
+              "name": "Mahoor",
+              "value": 2
+            },
+            {
+              "name": "Nanded",
+              "value": 1
+            },
+            {
+              "name": "Nanded",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "Aurangabad",
+          "children": [
+            {
+              "name": "Aurangabad",
+              "value": 1
+            },
+            {
+              "name": "Aurangabad",
+              "value": 8
+            },
+            {
+              "name": "Aurangabad (M Corp.)",
+              "value": 9
+            },
+            {
+              "name": "Kannad",
+              "value": 2
+            },
+            {
+              "name": "Kannad (M Cl)",
+              "value": 3
+            },
+            {
+              "name": "Phulambri",
+              "value": 7
+            },
+            {
+              "name": "Sillod",
+              "value": 5
+            },
+            {
+              "name": "Sillod (M Cl)",
+              "value": 6
+            },
+            {
+              "name": "Soegaon",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rajashthan",
+      "children": [
+        {
+          "name": "Hanumangarh",
+          "children": [
+            {
+              "name": "Hanumangarh",
+              "value": 1
+            },
+            {
+              "name": "Hanumangarh",
+              "value": 5
+            },
+            {
+              "name": "Hanumangarh (M Cl)",
+              "value": 6
+            },
+            {
+              "name": "Pilibanga",
+              "value": 7
+            },
+            {
+              "name": "Pilibanga (M)",
+              "value": 8
+            },
+            {
+              "name": "Rawatsar",
+              "value": 9
+            },
+            {
+              "name": "Sangaria",
+              "value": 2
+            },
+            {
+              "name": "Sangaria (M)",
+              "value": 3
+            },
+            {
+              "name": "Tibi",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Alwar",
+          "children": [
+            {
+              "name": "Alwar",
+              "value": 1
+            },
+            {
+              "name": "Behror",
+              "value": 2
+            },
+            {
+              "name": "Behror (M)",
+              "value": 3
+            },
+            {
+              "name": "Bhiwadi (M)",
+              "value": 7
+            },
+            {
+              "name": "Kishangarh Bas",
+              "value": 9
+            },
+            {
+              "name": "Kotkasim",
+              "value": 5
+            },
+            {
+              "name": "Mandawar",
+              "value": 4
+            },
+            {
+              "name": "Tijara",
+              "value": 6
+            },
+            {
+              "name": "Tijara (M)",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "Dausa",
+          "children": [
+            {
+              "name": "Bandikui (M)",
+              "value": 3
+            },
+            {
+              "name": "Baswa",
+              "value": 2
+            },
+            {
+              "name": "Dausa",
+              "value": 1
+            },
+            {
+              "name": "Dausa",
+              "value": 6
+            },
+            {
+              "name": "Dausa (M)",
+              "value": 7
+            },
+            {
+              "name": "Lalsot",
+              "value": 8
+            },
+            {
+              "name": "Lalsot (M)",
+              "value": 9
+            },
+            {
+              "name": "Mahwa",
+              "value": 4
+            },
+            {
+              "name": "Sikrai",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Sikar",
+          "children": [
+            {
+              "name": "Fatehpur",
+              "value": 2
+            },
+            {
+              "name": "Fatehpur (M)",
+              "value": 4
+            },
+            {
+              "name": "Lachhmangarh",
+              "value": 5
+            },
+            {
+              "name": "Lachhmangarh (M)",
+              "value": 6
+            },
+            {
+              "name": "Ramgarh (M)",
+              "value": 3
+            },
+            {
+              "name": "Sikar",
+              "value": 1
+            },
+            {
+              "name": "Sikar",
+              "value": 7
+            },
+            {
+              "name": "Sikar (M Cl + OG)",
+              "value": 8
+            },
+            {
+              "name": "Sikar (M Cl)",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "Ganganagar ",
+          "children": [
+            {
+              "name": "Ganganagar ",
+              "value": 1
+            },
+            {
+              "name": "Ganganagar",
+              "value": 5
+            },
+            {
+              "name": "Ganganagar (M Cl + OG)",
+              "value": 6
+            },
+            {
+              "name": "Ganganagar (M Cl)",
+              "value": 7
+            },
+            {
+              "name": "Karanpur",
+              "value": 2
+            },
+            {
+              "name": "Karanpur (M)",
+              "value": 4
+            },
+            {
+              "name": "Kesrisinghpur (M)",
+              "value": 3
+            },
+            {
+              "name": "Sadulshahar",
+              "value": 8
+            },
+            {
+              "name": "Sadulshahar (M)",
+              "value": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
