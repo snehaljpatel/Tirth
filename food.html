@@ -6,9 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Covin Dashboard</title>
+    <title>Tree charts</title>
     <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/index.css" rel="stylesheet" />
+    <style>
+        .node circle {
+            fill: #fff;
+            stroke: steelblue;
+            stroke-width: 3px;
+        }
+
+        .node text {
+            font: 12px sans-serif;
+        }
+
+        .link {
+            fill: none;
+            stroke: #ccc;
+            stroke-width: 2px;
+        }
+    </style>
+
     <script src="js/d3.v7.min.js"></script>
     <script src="js/fontawesome.all.js"></script>
 </head>
@@ -45,30 +62,14 @@
                         <div class="col-xl-12">
                             <div class="card mb-4">
                                 <div class="card-header">
-                                    <div id="main"></div>
+                                    Food
                                 </div>
                                 <div class="card-body">
-                                    <div class="row">
-                                        <div id="mapContainer"></div>
-                                    </div>
-                                    <br />
-                                    <div class="row">
-                                        <div id="pieContainer"></div>
-                                    </div>
-                                    <br />
-                                    <div class="row">
-                                        <div id="lineChartContainer"></div>
-
-                                    </div>
-                                    <br />
-                                    <div class="row">
-                                        <div id="wealthPlotContainer"></div>
-                                    </div>
+                                    <div id="collapsibleTreeContainer"></div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
             </main>
         </div>
     </div>
@@ -76,16 +77,6 @@
 
     <!--Common-->
     <script src="js/scripts.js"></script>
-
-    <!--Entry point-->
-    <script src="index.js"></script>
-
-    <!--Components-->
-    <script src="components/dropDown.js"></script>
-    <script src="components/mapView.js"></script>
-    <script src="components/pie.js"></script>
-    <script src="components/lineChart.js"></script>
-    <script src="components/wealthPlot.js"></script>
-
+    <script src="components/collapsibleTree.js"></script>
 </body>
 </html>

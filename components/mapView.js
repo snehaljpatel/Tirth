@@ -27,6 +27,7 @@ class MapView {
 
         //load the map data from an external json file
         d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson",)
+            //d3.json("/data/world.json",)
             .then(function (data) {
                 g.selectAll("path")
                     .data(data.features)

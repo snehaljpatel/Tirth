@@ -23,6 +23,7 @@ function loadComponents() {
 
     //using the dataset that contains all of the data in the same csv
     d3.csv("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv", function (data) {
+        //d3.csv("/data/owid-covid-data.csv", function (data) {
         return data;
     }).then(function (virusData) {
         //data is initially an array of objects, with each object being an entry of covid data on a specific date

@@ -8,24 +8,6 @@
     <meta name="author" content="" />
     <title>Tree charts</title>
     <link href="css/styles.css" rel="stylesheet" />
-    <style>
-        .node circle {
-            fill: #fff;
-            stroke: steelblue;
-            stroke-width: 3px;
-        }
-
-        .node text {
-            font: 12px sans-serif;
-        }
-
-        .link {
-            fill: none;
-            stroke: #ccc;
-            stroke-width: 2px;
-        }
-    </style>
-
     <script src="js/d3.v7.min.js"></script>
     <script src="js/fontawesome.all.js"></script>
 </head>
@@ -42,10 +24,13 @@
                 <div class="sb-sidenav-menu">
                     <div class="nav">
                         <a class="nav-link" href="index.html">
-                            Covin Dashboard
+                            Covin
                         </a>
-                        <a class="nav-link" href="tree-chart.html">
-                            Tree Chart
+                        <a class="nav-link" href="food.html">
+                            Food
+                        </a>
+                        <a class="nav-link" href="india.html">
+                            India
                         </a>
                     </div>
                 </div>
@@ -56,21 +41,11 @@
                 <div class="container-fluid px-4">
                     <h1 class="mt-1"></h1>
                     <div class="row">
-                        <div class="col-xl-12">
-                            <div class="card mb-4">
-                                <div class="card-header">
-                                    Collapsible Tree
-                                </div>
-                                <div class="card-body">
-                                    <div id="collapsibleTreeContainer"></div>
-                                </div>
-                            </div>
-                        </div>
                         <div class="row">
                             <div class="col-xl-12">
                                 <div class="card mb-4">
                                     <div class="card-header">
-                                        Circle Packing
+                                        India
                                     </div>
                                     <div class="card-body">
                                         <div id="circlePackingContainer"></div>
@@ -87,7 +62,6 @@
 
     <!--Common-->
     <script src="js/scripts.js"></script>
-    <script src="components/collapsibleTree.js"></script>
     <script src="components/circlePacking.js"></script>
 
 </body>
